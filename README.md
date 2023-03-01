@@ -16,7 +16,7 @@ This will create a Gemfile.
 Install it by running this command:
 
 ```markdown
-bundle install
+➜  bundle install
 ```
 
 ### Install Rack
