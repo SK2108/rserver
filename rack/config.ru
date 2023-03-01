@@ -1,6 +1,6 @@
 class Application 
   def call(env)
-    status = 20Ø
+    status = 200
     headers = { "Content-Type" => "text/html" }
     body = ["Hey, your first Rack app now works!"]
 
