@@ -36,3 +36,7 @@ Use the command below:
 ```markdown
 rack
 ```
+
+### Helpful links
+
+- [Rack's Github](https://github.com/rack/rack)
