@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "rack", "= 3.0.0"
+gem "rack", "3.0.14"
